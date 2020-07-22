@@ -3,5 +3,32 @@
        width:150px;
        heigh:150px;
        border-radius:10px;
-
 }
+
+#name{     
+      font-family:Verdana;
+      font-size:20px;
+}
+
+#name1{
+      font-family:Verdana;
+      font-size:15px;
+}
+
+#paragraph{
+          font-family:Verdana;
+          font-size:15px;
+          color:black;
+}
+
+#t1{
+    border: 1px solid;
+}
+#t1,td{
+    border: 1px solid; 
+    border-collapse:collapse;
+}
+body{
+     background-color:white;
+}
+
